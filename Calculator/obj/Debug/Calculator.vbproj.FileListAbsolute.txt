@@ -1,0 +1,31 @@
+C:\Users\drfsnv\Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\drfsnv\Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\drfsnv\Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\drfsnv\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\drfsnv\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\drfsnv\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\drfsnv\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\drfsnv\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\drfsnv\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\drfsnv\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.frmCalculator.resources
+D:\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+D:\Calculator\Calculator\obj\Debug\Calculator.frmCalculator.resources
+D:\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+D:\Calculator\Calculator\obj\Debug\Calculator.frmBinary.resources
+D:\MidtermExamination_Carpio_Esguerra\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\MidtermExamination_Carpio_Esguerra\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\MidtermExamination_Carpio_Esguerra\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\MidtermExamination_Carpio_Esguerra\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\MidtermExamination_Carpio_Esguerra\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\MidtermExamination_Carpio_Esguerra\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\MidtermExamination_Carpio_Esguerra\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+D:\MidtermExamination_Carpio_Esguerra\Calculator\Calculator\obj\Debug\Calculator.frmCalculator.resources
+D:\MidtermExamination_Carpio_Esguerra\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\MidtermExamination_Carpio_Esguerra\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
